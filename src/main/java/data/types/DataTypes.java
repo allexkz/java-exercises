@@ -40,6 +40,5 @@ public class DataTypes {
         char ok = '\u0134';
 //        stores a single letter/character or unicode/ASCII
 
-
     }
 }

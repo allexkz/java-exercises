@@ -7,6 +7,11 @@ public class ArithmeticOperators {
 
         Scanner read = new Scanner(System.in);
 
+        double bosta = 4.587;
+        System.out.print("Please type you first number: ");
+        bosta = read.nextDouble();
+        System.out.println(bosta);
+
         int test1 = 1;
         int test2 = 85;
         float test3 = 1.48f;
